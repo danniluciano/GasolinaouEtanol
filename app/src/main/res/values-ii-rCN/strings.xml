@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">汽油还是乙醇？</string>
+    <string name="frase_etanol">乙醇价格</string>
+    <string name="resultadoGasolina">汽油</string>
+    <string name="resultadoEtanol">乙醇</string>
+    <string name="frase_gasolina">汽油价格</string>
+</resources>
